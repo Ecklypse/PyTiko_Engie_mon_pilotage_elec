@@ -4,7 +4,7 @@ import sys
 import logging
 
 
-from pytiko.client import TikoClient
+from config.custom_components.pytiko.api import TikoClient
 
 def main():
     parser = argparse.ArgumentParser()
