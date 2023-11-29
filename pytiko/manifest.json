@@ -1,0 +1,12 @@
+{
+    "domain": "pytiko",
+    "name": "pytiko",
+    "codeowners": [
+        "@Ecklypse"
+    ],
+    "config_flow": true,
+    "documentation": "https://github.com/Ecklypse",
+    "iot_class": "cloud_polling",
+    "issue_tracker": "https://github.com/Ecklypse/HA-integration_blueprint/issues",
+    "version": "0.0.0"
+}
